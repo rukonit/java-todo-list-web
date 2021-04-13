@@ -1,0 +1,14 @@
+com\rukon\config\WebAppInitializer.class
+com\rukon\model\TodoItem.class
+com\rukon\controller\WebController.class
+com\rukon\util\Mappings.class
+com\rukon\businessl\TodoItemServiceImpl.class
+com\rukon\businessl\TodoItemsService.class
+com\rukon\services.class
+com\rukon\businessl\MessageServiceImpl.class
+com\rukon\util\AttributeNames.class
+com\rukon\model\TodoData.class
+com\rukon\config\WebConfig.class
+com\rukon\util\ViewNames.class
+com\rukon\controller\TodoItemController.class
+com\rukon\businessl\MessageService.class
